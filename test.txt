@@ -1,9 +1,1 @@
-﻿test tttt
-
-Hunkの確認
-
-topic 2のブランチにて，修正
-
-あい０００
-
-moui
+﻿test だそうです。
